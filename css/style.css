@@ -1,0 +1,35 @@
+.one{
+	background-color: orange;
+	height: 150px;
+}
+.two{
+	background-color: green;
+	height: 150px;
+}
+.three{
+	background-color: yellow;
+	height: 150px;
+}
+.four{
+	background-color: khaki;
+	height: 150px;
+}
+.five{
+	background-color: cyan;
+	height: 150px;
+}
+.six{
+	background-color: skyblue;
+	height: 150px;
+}
+.no-padding{
+	padding: 0;
+}
+.btn-custom{
+	background-color: #880000;
+	color: #fff;
+	padding: 8px 25px;
+}
+.maroon{
+	color: #880000;
+}
